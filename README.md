@@ -1,14 +1,10 @@
 # Opa, belezinha? 🎈
 
-Matheus Munarão, 21 anos. Bragança Paulista - SP. 
+Me chamo Matheus Munarão, tenho 21 anos e resido na cidade de Bragança Paulista - SP. Estou cursando Análise e Desenvolvimento de Sistemas no IFSP-BRA e atuo como desenvolvedor **Front-end** na Accenture Brasil.
 
-Cursando Análise e Desenvolvimento de Sistemas no IFSP-BRA e atuando como desenvolvedor **Front-end** na Accenture Brasil.
+Entusiasta sobre filosofia, psicologia e neurociências. Sempre em busca de aprender e agregar cada vez mais conhecimento.
 
-<div align="center">
-  <a href="https://github.com/matheusmunarao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmunarao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmunarao&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Conto também com um perfil de escrita critiva na onde escrevo alguns pensamentos. Caso goste, segue lá! <a href="https://instagram.com/desconstelacoes" target="_blank">***@desconstelacoes***</a>
 
 ## 💻 Tecnologias
 
@@ -17,6 +13,14 @@ Cursando Análise e Desenvolvimento de Sistemas no IFSP-BRA e atuando como desen
   <img align="center" alt="Muna CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Muna JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Muna React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+## 🏅 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/matheusmunarao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmunarao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmunarao&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 📬 Contatos
