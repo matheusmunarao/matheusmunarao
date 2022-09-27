@@ -1,10 +1,4 @@
-# Opa, belezinha? 🎈
-
-Me chamo Matheus Munarão, tenho 21 anos e resido na cidade de Bragança Paulista - SP. Estou cursando Análise e Desenvolvimento de Sistemas no IFSP-BRA e atuo como desenvolvedor **Front-end** na Accenture Brasil.
-
-Entusiasta sobre filosofia, psicologia e neurociências. Sempre em busca de aprender e agregar cada vez mais conhecimento.
-
-Conto também com um perfil de escrita critiva na onde escrevo alguns pensamentos. Caso goste, segue lá! <a href="https://instagram.com/desconstelacoes" target="_blank">***@desconstelacoes***</a>
+# Opa🎈
 
 ## 💻 Tecnologias
 
